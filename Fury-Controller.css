@@ -25,7 +25,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(ps4-assets/triggers.svgz);
+    background: url(https://th3rods.github.io/LLG-Assets/triggers.png);
     opacity: 0;
 }
 
@@ -41,7 +41,7 @@
 .ds4 .bumper {
     width: 99px;
     height: 23px;
-    background: url(ps4-assets/bumper.svgz) no-repeat;
+    background: url(https://th3rods.github.io/LLG-Assets/bumper.png) no-repeat;
     opacity: 0;
 }
 
@@ -55,6 +55,7 @@
 
 .ds4 .bumper.pressed {
     opacity: 1;
+
 }
 
 .ds4 .bumper.left {
@@ -122,7 +123,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(ps4-assets/start.svgz);
+    background: url(https://th3rods.github.io/LLG-Assets/start.png);
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -197,7 +198,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(https://raw.githubusercontent.com/th3rods/LLGStream/main/sticks-Fury.png);
+    background: url(https://th3rods.github.io/LLG-Assets/sticks-Fury.png);
     height: 94px;
     width: 94px;
 }
@@ -229,7 +230,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(https://raw.githubusercontent.com/th3rods/LLGStream/main/dpad-LLG.png);
+    background: url(https://th3rods.github.io/LLG-Assets/dpad-LLG.png);
     position: absolute;
 }
 
