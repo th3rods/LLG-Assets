@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(https://th3rods.github.io/LLG-Assets/CONTROLLER-LLG-PS.png);
+    background: url(https://th3rods.github.io/LLG-Assets/CONTROLLER-LLG-PS-Fury.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -158,7 +158,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(https://th3rods.github.io/LLG-Assets/face-LLG.png);
+    background: url(https://th3rods.github.io/LLG-Assets/Fury-face-LLG.png);
 }
 
 .ds4 .button.pressed {
@@ -230,7 +230,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(https://th3rods.github.io/LLG-Assets/dpad-LLG.png);
+    background: url(https://th3rods.github.io/LLG-Assets/Fury-dpad-LLG.png);
     position: absolute;
 }
 
